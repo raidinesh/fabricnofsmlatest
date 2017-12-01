@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 **Note:** This is a **read-only mirror** of the formal [Gerrit](https://gerrit.hyperledger.org/r/#/admin/projects/fabric) repository,
 where active development is ongoing. Issue tracking is handled in [Jira](https://jira.hyperledger.org/secure/RapidBoard.jspa?projectKey=FAB&rapidView=5&view=planning)
@@ -62,3 +63,7 @@ for the full details.
 ## License <a name="license"></a>
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+=======
+# fabricnofsmlatest
+fsm changes in fabric core
+>>>>>>> 47c84380d4f63f0d3367c63422f301283e5eb791
